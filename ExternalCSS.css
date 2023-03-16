@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  background-color: yellow;
+}
+.InternalCSS {
+  color: blue;
+  font-size: 40px;
+}
+body {
+  background-color: red;
+}
+.Developer {
+  color: rgb(0, 255, 68);
+  font-size: 20px;
+}
